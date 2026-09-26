@@ -17,7 +17,7 @@
 ---
 
 
-## `06 // STACK`
+## `STACK`
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,java,spring,mysql,html,css,javascript,react,vite,git,github,vscode,docker" alt="Technology stack">
@@ -28,7 +28,7 @@
 ---
 
 
-## `08 // GITHUB TELEMETRY`
+## `GITHUB TELEMETRY`
 
 <div align="center">
 <img src="./assets/github-telemetry.svg" width="96%" alt="GitHub telemetry">
@@ -42,5 +42,4 @@
 <div align="center">
 <img src="./assets/profile-footer.svg" width="100%" alt="Build measure break improve">
 <br><br>
-`BUILD → MEASURE → BREAK → IMPROVE`
 </div>
