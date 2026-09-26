@@ -6,7 +6,7 @@
 
 <a href="https://github.com/Prathmesh-2023?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"></a>
 &nbsp;
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffffff"></a>
+<a href="https://www.linkedin.com/in/prathmesh-durge-014044284/"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffffff"></a>
 
 <br><br>
 
