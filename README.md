@@ -10,7 +10,7 @@
 
 <br><br>
 
-<img src="./assets/activity-pulse.svg" width="92%" alt="GitHub activity pulse">
+<!-- <img src="./assets/activity-pulse.svg" width="92%" alt="GitHub activity pulse"> -->
 
 </div>
 
