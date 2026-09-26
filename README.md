@@ -33,8 +33,8 @@
 <div align="center">
 <img src="./assets/github-telemetry.svg" width="96%" alt="GitHub telemetry">
 <br><br>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prathmesh-2023&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&rank_icon=github" alt="GitHub statistics">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh-2023&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e" alt="Top languages">
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=Prathmesh-2023&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&rank_icon=github" alt="GitHub statistics">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh-2023&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e" alt="Top languages"> -->
 </div>
 
 ---
