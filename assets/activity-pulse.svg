@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 170"><defs><linearGradient id="g"><stop stop-color="#58a6ff"/><stop offset="1" stop-color="#7ee787"/></linearGradient></defs><rect width="1200" height="170" rx="18" fill="#0d1117" stroke="#21262d"/><text x="30" y="34" fill="#8b949e" font-family="monospace" font-size="13">GITHUB ACTIVITY // LIVE VISUALIZATION</text><g fill="url(#g)" opacity=".9">'''$(python - <<'PY'
+for i in range(48):
+    x=30+i*24; h=12+((i*17)%70); print(f'<rect x="{x}" y="{145-h}" width="12" height="{h}" rx="3"><animate attributeName="height" values="{h};{min(82,h+18)};{h}" dur="{1.4+(i%5)*.18:.2f}s" repeatCount="indefinite"/></rect>')
+PY
+)'''</g><path d="M24 145H1175" stroke="#30363d"/><circle cx="24" cy="145" r="3" fill="#58a6ff"><animate attributeName="cx" values="24;1175;24" dur="8s" repeatCount="indefinite"/></circle></svg>

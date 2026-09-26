@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 370"><rect width="1200" height="370" rx="20" fill="#0d1117" stroke="#21262d"/><text x="42" y="34" fill="#8b949e" font-family="monospace" font-size="13">CONTRIBUTION SIGNAL // NEURAL FIELD</text><g stroke="#58a6ff" stroke-opacity=".12">'''$(python - <<'PY'
+for c in range(19):
+ x1,y1=101+c*52,66+(c%7)*38; x2,y2=101+(c+1)*52,66+((c+2)%7)*38
+ print(f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}"/>')
+PY
+)'''</g><g>'''$(python - <<'PY'
+ops=[.12,.22,.38,.62,.95]
+for r in range(7):
+ for c in range(20):
+  x,y=90+c*52,55+r*38; op=ops[(r*7+c*3)%5]
+  print(f'<rect x="{x}" y="{y}" width="22" height="22" rx="5" fill="#58a6ff" fill-opacity="{op}"><animate attributeName="fill-opacity" values="{op};{min(1,op+.15)};{op}" dur="{2+(c%4)*.3}s" repeatCount="indefinite"/></rect>')
+PY
+)'''</g><text x="42" y="338" fill="#8b949e" font-family="monospace" font-size="12">LOW ACTIVITY</text><text x="1040" y="338" fill="#8b949e" font-family="monospace" font-size="12">HIGH ACTIVITY</text></svg>
