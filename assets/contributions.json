@@ -5,18 +5,6 @@
       "contributionDays": [
         {
           "contributionCount": 0,
-          "date": "2025-10-24"
-        },
-        {
-          "contributionCount": 0,
-          "date": "2025-10-25"
-        }
-      ]
-    },
-    {
-      "contributionDays": [
-        {
-          "contributionCount": 0,
           "date": "2025-10-26"
         },
         {
@@ -1674,6 +1662,14 @@
         {
           "contributionCount": 5,
           "date": "2026-10-24"
+        }
+      ]
+    },
+    {
+      "contributionDays": [
+        {
+          "contributionCount": 0,
+          "date": "2026-10-25"
         }
       ]
     }
