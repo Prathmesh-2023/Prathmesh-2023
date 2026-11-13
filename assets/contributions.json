@@ -1,12 +1,8 @@
 {
-  "totalContributions": 143,
+  "totalContributions": 142,
   "weeks": [
     {
       "contributionDays": [
-        {
-          "contributionCount": 1,
-          "date": "2025-11-12"
-        },
         {
           "contributionCount": 0,
           "date": "2025-11-13"
@@ -1674,6 +1670,10 @@
         {
           "contributionCount": 0,
           "date": "2026-11-12"
+        },
+        {
+          "contributionCount": 0,
+          "date": "2026-11-13"
         }
       ]
     }
